@@ -2,14 +2,15 @@
 ARM64-compatible Docker image of cimg/node:browsers 
 
 ## BASE IMAGES
+
 Browsers
-https://github.com/CircleCI-Public/cimg-node/blob/main/*/browsers/
+https://github.com/CircleCI-Public/cimg-node/tree/main/14.21/browsers
 
 Node base image
-https://github.com/CircleCI-Public/cimg-node/blob/main/*/Dockerfile
+https://github.com/CircleCI-Public/cimg-node/tree/main/14.21
 
 CIMG-BASE image
-https://github.com/CircleCI-Public/cimg-base/blob/main/*/Dockerfile
+https://github.com/CircleCI-Public/cimg-base
 
 
 ## Build
